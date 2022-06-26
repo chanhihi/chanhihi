@@ -3,11 +3,11 @@
 ### 저는 IOS 개발자를 지망하고 있습니다. 🍏 
 #### 저는 펌웨어 개발자를 한번 다녀온 경험이 있습니다. (주력 BLE, 1Y8M) 🔭
 
-##### - 🌱 swift를 사용해서 알고리즘 공부중에 있습니다.
+##### 🌱 swift를 사용해서 알고리즘 공부중에 있습니다.
   + 🤔 [SWIFT Algorithm]
-##### - 📖 현재 [42SEOUL] 7기 카뎃입니다.
+##### 📖 현재 [42SEOUL] 7기 카뎃입니다.
   + 🧑🏻‍💻 : chanheki
-##### - 💬 궁금하신 점이 있으시다면 연락주세요.
+##### 💬 궁금하신 점이 있으시다면 연락주세요.
  + 📫 : chanhihi55@gmail.com
 
 [SWIFT Algorithm]: https://github.com/chanhihi/Swift-Storage#-repositories-written-in-swift-language "swift_storage"
