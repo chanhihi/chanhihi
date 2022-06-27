@@ -7,9 +7,12 @@
   + 🤔 [SWIFT Algorithm]
 ##### 📖 현재 [42SEOUL] 7기 카뎃입니다.
   + 🧑🏻‍💻 : chanheki
+##### 💾 미약하나마 [Tech Blog]도 운영중입니다.
+  +  📎 : https://chanhhh.tistory.com/
 ##### 💬 궁금하신 점이 있으시다면 연락주세요.
  + 📫 : chanhihi55@gmail.com
 
+[Tech Blog]: https://chanhhh.tistory.com/ "chanhhh_tstory"
 [SWIFT Algorithm]: https://github.com/chanhihi/Swift-Storage#-repositories-written-in-swift-language "swift_storage"
 [42SEOUL]: https://42seoul.kr/seoul42/contents/view?contentsNo=14&level=2&menuNo=30 "42seoul_studies"
 <!--
