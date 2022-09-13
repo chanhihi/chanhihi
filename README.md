@@ -1,5 +1,8 @@
 ## HI, I'm CHANHIHI 👋
 
+#### I`m always do my best in a positive attitude. 
+I like collaboration because I like to meet and talk to people.
+
 ### 저는 IOS 개발자를 지망하고 있습니다. 🍏 
 #### 저는 펌웨어 개발자를 한번 다녀온 경험이 있습니다. (주력 BLE, 1Y8M) 🔭
 
