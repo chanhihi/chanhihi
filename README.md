@@ -1,16 +1,13 @@
-## HI, I'm CHANHIHI 👋
-
-#### I`m always do my best in a positive attitude. 
-I like collaboration because I like to meet and talk to people.
+## 찾아와주셔서 감사합니다. CHANHIHI 👋
 
 ### 저는 IOS 개발자를 지망하고 있습니다. 🍏 
-#### 저는 펌웨어 개발자를 한번 다녀온 경험이 있습니다. (주력 BLE, 1Y8M) 🔭
+#### 저는 펌웨어 개발자로 한번 다녀온 경험이 있습니다. (주력 BLE, 약 2년) 🔭
 
 ##### 🌱 swift를 사용해서 알고리즘 공부중에 있습니다.
   + 🤔 [SWIFT Algorithm]
 ##### 📖 현재 [42SEOUL] 7기 카뎃입니다.
   + 🧑🏻‍💻 : chanheki
-##### 💾 미약하나마 [Tech Blog]도 운영중입니다.
+##### 💾 [Tech Blog]도 운영중입니다.
   +  📎 : https://chanhhh.tistory.com/
 ##### 💬 궁금하신 점이 있으시다면 연락주세요.
  + 📫 : chanhihi55@gmail.com
@@ -22,6 +19,11 @@ I like collaboration because I like to meet and talk to people.
 **chanhihi/chanhihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+#### I`m always do my best in a positive attitude. 
+I like collaboration because I like to meet and talk to people.
+
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
