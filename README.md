@@ -1,7 +1,18 @@
-## 찾아와주셔서 감사합니다. CHANHIHI 👋
+## Thanks for coming. I'm CHANHIHI 👋
 
-### 저는 IOS 개발자를 지망하고 있습니다. 🍏 
-#### 저는 펌웨어 개발자로 한번 다녀온 경험이 있습니다. (주력 BLE, 약 2년) 🔭
+### I'm interested in the iOS tech stack. 🍏
+
+##### 🌱 I’m currently learning algorithm used Swift.
+  + 🤔 [SWIFT Algorithm]
+##### 📖 I’m currently [42SEOUL] 7th Learner.
+  + 🧑🏻‍💻 : chanheki
+##### 💾 It's my [Tech Blog]
+  +  📎 : https://chanhhh.tistory.com/
+##### 💬 Please feel free to contact me.
+ + 📫 : chanhihi55@gmail.com
+
+<!-- ### 저는 IOS 개발자를 지망하고 있습니다. 🍏 
+#### 저는 펌웨어 개발자로 한번 다녀온 경험이 있습니다. (주력 BLE, 약 2년) 🔭 
 
 ##### 🌱 swift를 사용해서 알고리즘 공부중에 있습니다.
   + 🤔 [SWIFT Algorithm]
@@ -11,6 +22,7 @@
   +  📎 : https://chanhhh.tistory.com/
 ##### 💬 궁금하신 점이 있으시다면 연락주세요.
  + 📫 : chanhihi55@gmail.com
+-->
 
 [Tech Blog]: https://chanhhh.tistory.com/ "chanhhh_tstory"
 [SWIFT Algorithm]: https://github.com/chanhihi/Swift-Storage#-repositories-written-in-swift-language "swift_storage"
