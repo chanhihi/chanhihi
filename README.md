@@ -4,6 +4,8 @@
 
 ##### 🌱 I’m currently learning algorithm used Swift.
   + 🤔 [SWIFT Algorithm]
+
+![chanhihi profile](http://mazandi.herokuapp.com/api?handle=chanhihi&theme=dark)
 ##### 📖 I’m currently [42SEOUL] 7th Learner.
   + 🧑🏻‍💻 : chanheki
 ##### 💾 It's my [Tech Blog]
