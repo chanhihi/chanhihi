@@ -2,17 +2,19 @@
 
 ### I'm interested in the iOS tech stack. 🍏
 
+##### 💬 Please feel free to contact me.
+ + 📫 : chanhihi55@gmail.com
+
+##### 💾 It's my [Tech Blog]
+  +  📎 : https://chanhhh.tistory.com/
+
+##### 📖 I’m currently [42SEOUL] 7th Learner.
+  + 🧑🏻‍💻 : chanheki
+
 ##### 🌱 I’m currently learning algorithm used Swift.
   + 🤔 [SWIFT Algorithm]
 
 ![chanhihi profile](http://mazandi.herokuapp.com/api?handle=chanhihi&theme=dark)
-##### 📖 I’m currently [42SEOUL] 7th Learner.
-  + 🧑🏻‍💻 : chanheki
-##### 💾 It's my [Tech Blog]
-  +  📎 : https://chanhhh.tistory.com/
-##### 💬 Please feel free to contact me.
- + 📫 : chanhihi55@gmail.com
-
 <!-- ### 저는 IOS 개발자를 지망하고 있습니다. 🍏 
 #### 저는 펌웨어 개발자로 한번 다녀온 경험이 있습니다. (주력 BLE, 약 2년) 🔭 
 
