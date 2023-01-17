@@ -9,7 +9,7 @@
   +  📎 : https://chanhhh.tistory.com/
 
 ##### 📖 I’m currently [42SEOUL] 7th Learner.
-  + 🧑🏻‍💻 : chanheki
+  + 🧑🏻‍💻 : chanheki [repositories]
 
 ##### 🌱 I’m currently learning algorithm used Swift.
   + 🤔 [SWIFT Algorithm]
@@ -31,6 +31,7 @@
 [Tech Blog]: https://chanhhh.tistory.com/ "chanhhh_tstory"
 [SWIFT Algorithm]: https://github.com/chanhihi/Swift-Storage#-repositories-written-in-swift-language "swift_storage"
 [42SEOUL]: https://42seoul.kr/seoul42/contents/view?contentsNo=14&level=2&menuNo=30 "42seoul_studies"
+[repositories]: https://github.com/chanheki "chanheki 42 repositories"
 <!--
 **chanhihi/chanhihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
