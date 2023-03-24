@@ -1,6 +1,6 @@
 ## Thanks for coming. I'm CHANHIHI 👋
 
-### I'm interested in the iOS tech stack. 🍏
+### I'm interested in the iOS & macOS tech stack. 🍏
 
 ##### 💬 Please feel free to contact me.
  + 📫 : chanhihi55@gmail.com
