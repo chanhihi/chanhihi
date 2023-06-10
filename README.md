@@ -12,8 +12,8 @@
   + 🧑🏻‍💻 : chanheki [repositories]
 
 ##### 🌱 I’m currently learning algorithm used Swift.
-  + 🤔 [SWIFT Algorithm]
   + 💡 [Swift algorithm with AlgorithmicProblemSolvingStrategies]
+  + 🤔 [SWIFT Algorithm Problem Solve]
 
 ![chanhihi profile](http://mazandi.herokuapp.com/api?handle=chanhihi&theme=dark)
 <!-- ### 저는 IOS 개발자를 지망하고 있습니다. 🍏 
@@ -30,7 +30,7 @@
 -->
 
 [Tech Blog]: https://chanhhh.tistory.com/ "chanhhh_tstory"
-[SWIFT Algorithm]: https://github.com/chanhihi/Swift-Storage#-repositories-written-in-swift-language "swift_storage"
+[SWIFT Algorithm Problem Solve]: https://github.com/chanhihi/Swift-Storage#-repositories-written-in-swift-language "swift_storage"
 [Swift algorithm with AlgorithmicProblemSolvingStrategies]: https://github.com/chanheki/AlgorithmicProblemSolvingStrategies "AlgorithmicProblemSolvingStrategies"
 [42SEOUL]: https://42seoul.kr/seoul42/contents/view?contentsNo=14&level=2&menuNo=30 "42seoul_studies"
 [repositories]: https://github.com/chanheki "chanheki 42 repositories"
