@@ -1,7 +1,7 @@
 ## Thanks for coming. I'm CHANHIHI 👋
 
 ### I'm interested in the iOS & macOS tech stack. 🍏
-### Plus Clients technology stack. 💻
+### Plus Web Clients technology stack. 🌐
 
 ##### 💬 Please feel free to contact me.
  + 📫 : chanhihi55@gmail.com
