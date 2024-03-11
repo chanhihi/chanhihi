@@ -1,6 +1,7 @@
 ## Thanks for coming. I'm CHANHIHI 👋
 
 ### I'm interested in the iOS & macOS tech stack. 🍏
+### Plus Clients technology stack. 💻
 
 ##### 💬 Please feel free to contact me.
  + 📫 : chanhihi55@gmail.com
@@ -16,6 +17,7 @@
   + 🤔 [SWIFT Algorithm Problem Solve]
 
 ![chanhihi profile](http://mazandi.herokuapp.com/api?handle=chanhihi&theme=dark)
+
 <!-- ### 저는 IOS 개발자를 지망하고 있습니다. 🍏 
 #### 저는 펌웨어 개발자로 한번 다녀온 경험이 있습니다. (주력 BLE, 약 2년) 🔭 
 
@@ -54,3 +56,4 @@ I like collaboration because I like to meet and talk to people.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
