@@ -4,9 +4,9 @@
 
 ### Plus Web Clients technology stack. 🌐
 
-## 
+</br>
 
-## 🍏
+##### 🍏 These are swift-based projects.
 - [📎 42 Box iOS Lead](https://github.com/42Box/iOS)
 - [📎 42 Box macOS Lead](https://github.com/42Box)
 - [📎 open-meto/sdk Swift Contributors](https://github.com/open-meteo/sdk)
@@ -14,22 +14,11 @@
 - [📎 Side Calculator App](https://github.com/chanheki/mobileModule00)
 - [📎 Side Delivery App](https://github.com/PPang-Delivery/PPang-Delivery)
 
-## 🌐
+##### 🌐 These are the projects created with my web stack.
 - [📎 42 도서관 집현전 Develop FE/BE](https://42library.kr/)
 - [📎 42 Box CI/CD Management FE](https://github.com/42Box/front-end2.0)
 - [📎 Web Sockets을 이용한 PingPong Game FE](https://github.com/LastExTrascendence/frontend)
 - [📎 C++98로 개발한 Webserver](https://github.com/MyLittleWebServer/webserv)
-
-## 🧶
-- [Solved.AC](https://solved.ac/profile/chanhihi)
-- [Blog](https://chanhhh.tistory.com/)
-- [Insta](https://www.instagram.com/_20200505_/)
-
-</br>
-
----
-
-</br>
 
 ##### 💬 Please feel free to contact me.
  + 📫 : chanhihi55@gmail.com
@@ -45,6 +34,10 @@
   + 🤔 [SWIFT Algorithm Problem Solve]
 
 ![chanhihi profile](http://mazandi.herokuapp.com/api?handle=chanhihi&theme=dark)
+
+##### 🧶 Private
+- [Blog](https://chanhhh.tistory.com/)
+- [Insta](https://www.instagram.com/_20200505_/)
 
 <!-- ### 저는 IOS 개발자를 지망하고 있습니다. 🍏 
 #### 저는 펌웨어 개발자로 한번 다녀온 경험이 있습니다. (주력 BLE, 약 2년) 🔭 
