@@ -9,9 +9,9 @@
 ##### 🍏 These are swift-based projects.
 - [📎 42 Box iOS Lead](https://github.com/42Box/iOS)
 - [📎 42 Box macOS Lead](https://github.com/42Box)
-- [📎 open-meto/sdk Swift Contributors](https://github.com/open-meteo/sdk)
-- [📎 Side Weather App](https://github.com/chanheki/mobileModule03)
-- [📎 Side Calculator App](https://github.com/chanheki/mobileModule00)
+- [📎 Side Weather App + OpenAPI(open-meteo)](https://github.com/chanheki/mobileModule03)
+- [📎 open-meteo/sdk Swift Contributors](https://github.com/open-meteo/sdk)
+- [📎 Side Calculator App + Expression](https://github.com/chanheki/mobileModule00)
 - [📎 Side Delivery App](https://github.com/PPang-Delivery/PPang-Delivery)
 
 ##### 🌐 These are the projects created with my web stack.
