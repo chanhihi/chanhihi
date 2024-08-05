@@ -7,8 +7,10 @@
 </br>
 
 ##### 🍏 These are swift-based projects.
-- [📎 42 Box iOS Lead](https://github.com/42Box/iOS)
-- [📎 42 Box macOS Lead](https://github.com/42Box)
+- [📎 42 Box iOS Github](https://github.com/42Box/iOS)
+- [🍏 42 Box Appstore](https://apps.apple.com/in/app/42box/id6499335551)
+- [📎 42 Box macOS Github](https://github.com/42Box)
+- [📎 Swifty Proteins](https://github.com/chanheki/swifty-proteins)
 - [📎 Side Weather App + OpenAPI(open-meteo)](https://github.com/chanheki/mobileModule03)
 - [📎 open-meteo/sdk Swift Contributors](https://github.com/open-meteo/sdk)
 - [📎 Side Calculator App + Expression](https://github.com/chanheki/mobileModule00)
