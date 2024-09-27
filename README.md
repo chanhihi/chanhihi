@@ -2,22 +2,27 @@
 
 ### I'm interested in the iOS & macOS tech stack. 🍏
 
-### Plus Web Clients technology stack. 🌐
+### Plus Web Clients tech stack. 🌐
 
 </br>
 
 ##### 🍏 These are swift-based projects.
 - [📎 42 Box iOS Github](https://github.com/42Box/iOS)
-- [🍏 42 Box Appstore](https://apps.apple.com/in/app/42box/id6499335551)
+    - [🍏 42 Box Appstore](https://apps.apple.com/in/app/42box/id6499335551)
+    - 42Box는 여러 웹 링크를 쉽게 저장하고 폴더별로 정리할 수 있는 앱입니다.
 - [📎 42 Box macOS Github](https://github.com/42Box)
+    - 42Box macOS 버전
 - [📎 Swifty Proteins](https://github.com/chanheki/swifty-proteins)
+    - 3D 단백질 구조 시각화 프로젝트(PDB)
+    - Modular Architecture 설계
 - [📎 Side Weather App + OpenAPI(open-meteo)](https://github.com/chanheki/mobileModule03)
-- [📎 open-meteo/sdk Swift Contributors](https://github.com/open-meteo/sdk)
+    - [🧑 open-meteo/sdk Swift Contributors](https://github.com/open-meteo/sdk)
 - [📎 Side Calculator App + Expression](https://github.com/chanheki/mobileModule00)
 - [📎 Side Delivery App](https://github.com/PPang-Delivery/PPang-Delivery)
 
 ##### 🌐 These are the projects created with my web stack.
-- [📎 42 도서관 집현전 Develop FE/BE](https://42library.kr/)
+- [📎 42 도서관 집현전 Develop FE/BE](https://github.com/jiphyeonjeon-42/frontend)
+    - [🌐 42 도서관 집현전](https://42library.kr/)
 - [📎 42 Box CI/CD Management FE](https://github.com/42Box/front-end2.0)
 - [📎 Web Sockets을 이용한 PingPong Game FE](https://github.com/LastExTrascendence/frontend)
 - [📎 C++98로 개발한 Webserver](https://github.com/MyLittleWebServer/webserv)
