@@ -1,6 +1,6 @@
 ## Thanks for coming. I'm CHANHIHI 👋
 
-### Love 🍏, Love 🐦‍⬛, Love 📱, Love ☕️
+### Love 🍏, Love ☕️, Love 🐦‍⬛, Love 📱, Love 🖥
 
 ### Plus 🌐
 
