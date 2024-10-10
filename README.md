@@ -2,7 +2,26 @@
 
 ### Love 🍏, Love ☕️, Love 🐦‍⬛, Love 📱, Love 🖥
 
-### Plus 🌐
+<details>
+<summary> Plus 🌐 </summary>
+
+## 웹 개발 2022.09 ~ 진행중
+
+### 도서관 웹 서비스 [집현전](42library.kr) (2022.09 시작)
+
+- 22년 9월 42library에서 [백엔드](https://github.com/jiphyeonjeon-42/backend)개발로 시작
+- 23년 부터 클라이언트 개발자로 전향 후 메인테이너로써 활동하여 [프론트엔드](https://github.com/jiphyeonjeon-42/backend)에 직간접적으로 도움을 주고 있습니다.
+- [🌐 42 도서관 집현전](https://42library.kr/)
+
+### 생성형 AI를 사용하여 편지 형태로 나타낸 유저 맞춤형 기록 서비스 [심심조각](https://www.dear-my-peace.site/) (2024.06 시작)
+
+- 24년 ReacNative로 iOS + 웹 까지 함께 개발 [클라이언트](https://github.com/DearMyPeace/simsim-client)담당
+- [🌐 심심조각](https://dear-my-peace.site/)
+
+</br>
+
+</details>
+
 
 <details>
 <summary> Plus 🤖 </summary>
