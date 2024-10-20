@@ -1,6 +1,47 @@
 ## Thanks for coming. I'm CHANHIHI 👋
 
-### Love 🍏, Love ☕️, Love 🐦‍⬛, Love 📱, Love 🖥
+<details>
+<summary> Love 🍏, Love ☕️, Love 🐦‍⬛, Love 📱, Love 🖥 </summary>
+
+## Love Apple ecosystem, Cocoa, Swift, iOS, macOS
+
+### 42Box macOS 앱으로 클라이언트 개발을 시작하였습니다.
+
+- 42서울 학생들의 일상적인 불편함을 줄이고, 자주 사용하는 웹 서비스를 쉽게 접근할 수 있도록 모은 플랫폼 웹앱입니다.
+- [📎 42 Box macOS Github](https://github.com/42Box)
+
+### 42Box iOS 앱으로 모바일 개발을 시작하였습니다.
+
+- 42Box macOS 애플리케이션을 iOS로 모바일 환경에 맞춰 마이그레이션하여 배포하였습니다.
+- 여러 웹 링크를 쉽게 저장하고 폴더별로 정리하여 손쉽게 접근할 수 있는 앱을 만들었습니다.
+- [📎 42 Box iOS Github](https://github.com/42Box/iOS)
+- [🍏 42 Box Appstore Link](https://apps.apple.com/in/app/42box/id6499335551)
+
+### Swift/C++로 알고리즘 문제 풀이(PS)를 하고 있습니다.
+
+- 2024년 10월 20일 기준, Swift로 약 540문제, C++17로 85문제의 알고리즘 문제를 해결했습니다.
+- [📎 Solved.ad Chanhihi ![image](https://github.com/user-attachments/assets/9d76acd6-d6bc-4af0-a1e4-c5edbcd1dc28)](https://solved.ac/profile/chanhihi)
+
+### Modular Architecture를 학습하고 프로젝트에 적용한 경험이 있습니다.
+
+- 3D 단백질 구조를 시각화하는 프로젝트(SceneKit 사용)
+- Tuist를 활용하여 각 모듈을 레이어별로 분리하고, 객체지향 원칙을 중점으로 프로그래밍을 진행했습니다.
+- [📎 Swifty Proteins](https://github.com/chanheki/swifty-proteins)
+
+### open-meteo/sdk 오픈소스에 기여한 경험이 있습니다.
+
+- SwiftUI에 익숙해지기 위해 토이 프로젝트를 진행하던 중, 날씨 관련 OpenAPI SDK에 기여했습니다.
+- [📎 Side Weather App + OpenAPI(open-meteo)](https://github.com/chanheki/mobileModule03)
+    - [🧑 open-meteo/sdk Swift Contributors](https://github.com/open-meteo/sdk)
+
+### 그 외 토이 프로젝트
+
+- [📎 Side Calculator App + Expression](https://github.com/chanheki/mobileModule00)
+- [📎 Side Delivery App](https://github.com/PPang-Delivery/PPang-Delivery)
+
+</br>
+
+</details>
 
 <details>
 <summary> Plus 🌐 </summary>
@@ -9,8 +50,8 @@
 
 ### 도서관 웹 서비스 [집현전](42library.kr) (2022.09 시작)
 
-- 22년 9월 42library에서 [백엔드](https://github.com/jiphyeonjeon-42/backend)개발로 시작
-- 23년 부터 클라이언트 개발자로 전향 후 메인테이너로써 활동하여 [프론트엔드](https://github.com/jiphyeonjeon-42/backend)에 직간접적으로 도움을 주고 있습니다.
+- 22년 9월 42library에서 [백엔드](https://github.com/jiphyeonjeon-42/backend)개발로 시작
+- 23년 부터 클라이언트 개발자로 전향 후 메인테이너로써 활동하여 [프론트엔드](https://github.com/jiphyeonjeon-42/backend)에 직간접적으로 도움을 주고 있습니다.
 - [🌐 42 도서관 집현전](https://42library.kr/)
 
 ### 생성형 AI를 사용하여 편지 형태로 나타낸 유저 맞춤형 기록 서비스 [심심조각](https://www.dear-my-peace.site/) (2024.06 시작)
@@ -48,8 +89,10 @@
 
 </details>
 
-</br>
 
+<!-- 영문 버전
+
+</br>
 ##### 🍏 These are swift-based projects.
 - [📎 42 Box iOS Github](https://github.com/42Box/iOS)
     - [🍏 42 Box Appstore](https://apps.apple.com/in/app/42box/id6499335551)
@@ -72,6 +115,8 @@
 - [📎 Web Sockets을 이용한 PingPong Game FE](https://github.com/LastExTrascendence/frontend)
 - [📎 C++98로 개발한 Webserver](https://github.com/MyLittleWebServer/webserv)
 </br>
+
+-->
 
 ##### 💬 Please feel free to contact me.
  + 📫 : chanhihi55@gmail.com
