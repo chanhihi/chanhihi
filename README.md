@@ -189,6 +189,10 @@
 ##### 📖 I’m currently [42SEOUL] 7th Learner.
   + 🧑🏻‍💻 : chanheki [repositories]
 
+##### 🧶 Private
+- [Blog](https://chanhhh.tistory.com/)
+- [Insta](https://www.instagram.com/_20200505_/)
+
 -->
 
 ##### 💬 Please feel free to contact me.
@@ -197,16 +201,11 @@
 ##### 💾 It's my [Tech Blog]
   +  📎 : https://chanhhh.tistory.com/
 
-
 ##### 🌱 I’m currently learning algorithm used Swift.
   + 💡 [Swift algorithm with AlgorithmicProblemSolvingStrategies]
   + 🤔 [SWIFT Algorithm Problem Solve]
 
 ![chanhihi profile](http://mazandi.herokuapp.com/api?handle=chanhihi&theme=dark)
-
-##### 🧶 Private
-- [Blog](https://chanhhh.tistory.com/)
-- [Insta](https://www.instagram.com/_20200505_/)
 
 <!-- ### 저는 IOS 개발자를 지망하고 있습니다. 🍏 
 #### 저는 펌웨어 개발자로 한번 다녀온 경험이 있습니다. (주력 BLE, 약 2년) 🔭 
