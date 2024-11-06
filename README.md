@@ -158,42 +158,8 @@
 
 </details>
 
-</br>
-
-<!-- 영문 버전
-
-</br>
-##### 🍏 These are swift-based projects.
-- [📎 42 Box iOS Github](https://github.com/42Box/iOS)
-    - [🍏 42 Box Appstore](https://apps.apple.com/in/app/42box/id6499335551)
-    - 42Box can easily store multiple web links and organize them by folder.
-- [📎 42 Box macOS Github](https://github.com/42Box)
-    - 42Box macOS Version
-- [📎 Swifty Proteins](https://github.com/chanheki/swifty-proteins)
-    - 3D Protein Structure Visualization Project (PDB)
-    - Modular Architecture
-- [📎 Side Weather App + OpenAPI(open-meteo)](https://github.com/chanheki/mobileModule03)
-    - [🧑 open-meteo/sdk Swift Contributors](https://github.com/open-meteo/sdk)
-- [📎 Side Calculator App + Expression](https://github.com/chanheki/mobileModule00)
-- [📎 Side Delivery App](https://github.com/PPang-Delivery/PPang-Delivery)
-</br>
-
-##### 🌐 These are the projects created with my web stack.
-- [📎 42 도서관 집현전 Develop FE/BE](https://github.com/jiphyeonjeon-42/frontend)
-    - [🌐 42 도서관 집현전](https://42library.kr/)
-- [📎 42 Box CI/CD Management FE](https://github.com/42Box/front-end2.0)
-- [📎 Web Sockets을 이용한 PingPong Game FE](https://github.com/LastExTrascendence/frontend)
-- [📎 C++98로 개발한 Webserver](https://github.com/MyLittleWebServer/webserv)
-</br>
-
-##### 📖 I’m currently [42SEOUL] 7th Learner.
-  + 🧑🏻‍💻 : chanheki [repositories]
-
-##### 🧶 Private
-- [Blog](https://chanhhh.tistory.com/)
-- [Insta](https://www.instagram.com/_20200505_/)
-
--->
+<details open>
+<summary> Others </summary>
 
 ##### 💬 Please feel free to contact me.
  + 📫 : chanhihi55@gmail.com
@@ -206,6 +172,9 @@
   + 🤔 [SWIFT Algorithm Problem Solve]
 
 ![chanhihi profile](http://mazandi.herokuapp.com/api?handle=chanhihi&theme=dark)
+
+</details>
+
 
 <!-- ### 저는 IOS 개발자를 지망하고 있습니다. 🍏 
 #### 저는 펌웨어 개발자로 한번 다녀온 경험이 있습니다. (주력 BLE, 약 2년) 🔭 
@@ -246,3 +215,37 @@ I like collaboration because I like to meet and talk to people.
 - ⚡ Fun fact: ...
 -->
 
+<!-- 영문 버전
+
+</br>
+##### 🍏 These are swift-based projects.
+- [📎 42 Box iOS Github](https://github.com/42Box/iOS)
+    - [🍏 42 Box Appstore](https://apps.apple.com/in/app/42box/id6499335551)
+    - 42Box can easily store multiple web links and organize them by folder.
+- [📎 42 Box macOS Github](https://github.com/42Box)
+    - 42Box macOS Version
+- [📎 Swifty Proteins](https://github.com/chanheki/swifty-proteins)
+    - 3D Protein Structure Visualization Project (PDB)
+    - Modular Architecture
+- [📎 Side Weather App + OpenAPI(open-meteo)](https://github.com/chanheki/mobileModule03)
+    - [🧑 open-meteo/sdk Swift Contributors](https://github.com/open-meteo/sdk)
+- [📎 Side Calculator App + Expression](https://github.com/chanheki/mobileModule00)
+- [📎 Side Delivery App](https://github.com/PPang-Delivery/PPang-Delivery)
+</br>
+
+##### 🌐 These are the projects created with my web stack.
+- [📎 42 도서관 집현전 Develop FE/BE](https://github.com/jiphyeonjeon-42/frontend)
+    - [🌐 42 도서관 집현전](https://42library.kr/)
+- [📎 42 Box CI/CD Management FE](https://github.com/42Box/front-end2.0)
+- [📎 Web Sockets을 이용한 PingPong Game FE](https://github.com/LastExTrascendence/frontend)
+- [📎 C++98로 개발한 Webserver](https://github.com/MyLittleWebServer/webserv)
+</br>
+
+##### 📖 I’m currently [42SEOUL] 7th Learner.
+  + 🧑🏻‍💻 : chanheki [repositories]
+
+##### 🧶 Private
+- [Blog](https://chanhhh.tistory.com/)
+- [Insta](https://www.instagram.com/_20200505_/)
+
+-->
