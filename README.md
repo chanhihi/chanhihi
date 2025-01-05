@@ -161,6 +161,10 @@
 <details open>
 <summary> Others </summary>
 
+##### 🍏 Kim Chan Hee Appstore Preview.
+
+[![Redirect Image](https://github.com/user-attachments/assets/ebbe2fd9-a4ec-47f6-8d21-4ed29113802c)](https://url.kr/x9a556)
+
 ##### 💬 Please feel free to contact me.
  + 📫 : chanhihi55@gmail.com
 
