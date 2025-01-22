@@ -25,8 +25,8 @@
 
 ### 🐦‍⬛ Swift/C++로 알고리즘 문제 풀이(PS)를 하고 있습니다.
 
-- 2024년 10월 20일 기준, Swift로 약 540문제, C++17로 85문제의 알고리즘 문제를 해결했습니다.
-- [📎 Solved.ad Chanhihi ![image](https://github.com/user-attachments/assets/9d76acd6-d6bc-4af0-a1e4-c5edbcd1dc28)](https://solved.ac/profile/chanhihi)
+- 2025년 1월 22일 기준, Swift로 543문제, C++17로 219문제의 알고리즘 문제를 해결했습니다.
+- [📎 Solved.ad Chanhihi ![image](https://github.com/user-attachments/assets/2c46ad42-fb1d-422e-9588-64ff53231e0c)](https://solved.ac/profile/chanhihi)
 
 </br>
 
