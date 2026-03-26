@@ -109,7 +109,7 @@
 </details>
 
 <details>
-<summary><h2>Webservice @ <a href="https://github.com/jiphyeonjeon-42">42jiphyeonjeon(2022.09 - 2024.07)</a></h2></summary>
+<summary><h2>Webservice @ <a href="https://github.com/jiphyeonjeon-42">42jiphyeonjeon</a> (2022.09 - 2024.07)</h2></summary>
 
 ### 도서관 웹 서비스 [집현전](42library.kr)(2022.09~2024.07)
 
@@ -133,7 +133,7 @@
 </details>
 
 <details>
-<summary><h2>Firmware Developer(2020.01 - 2021.09) </h2></summary>
+<summary><h2>Firmware Developer (2020.01 - 2021.09) </h2></summary>
 
 ## 🤖 펌웨어 개발 2020.01 ~ 2021.09
 
