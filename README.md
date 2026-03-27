@@ -48,7 +48,7 @@
     
 <summary><h2>Apple ecosystem @ <a href="https://github.com/chanheki">42Seoul</a> (2023.11 - 2024.07)</h2></summary>
 
-## Love 🍏(Apple ecosystem), Love ☕️(Cocoa), Love 🐦‍⬛(Swift), Love 📱(iOS), Love 🖥(macOS)
+## Love 🍏, Love ☕️(Cocoa), Love 🐦‍⬛(Swift), Love 📱(iOS), Love 🖥(macOS)
 
 ### 🖥 42Box macOS (2023.11 ~ 2024.07)
 
