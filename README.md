@@ -1,4 +1,5 @@
 ## Thanks for coming. I'm CHANHIHI 👋
+### 각 챕터를 펼쳐보시면, 제가 지나온 개발 여정이 담겨있습니다. 👇
 
 <details open>
 <summary><h2>iPadOS / iOS Developer @ <a href="https://www.fitogether.com">Fitogether</a> (2025.02 - )</h2></summary>
