@@ -229,7 +229,7 @@
   + 🤔 [SWIFT Algorithm Problem Solve]
   + 📎 [Solved.ac Chanhihi](https://solved.ac/profile/chanhihi)
 
-![chanhihi profile](http://mazandi.herokuapp.com/api?handle=chanhihi&theme=dark)
+<!-- ![chanhihi profile](http://mazandi.herokuapp.com/api?handle=chanhihi&theme=dark) -->
 
 </details>
 
