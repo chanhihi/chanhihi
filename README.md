@@ -5,7 +5,7 @@
 <details open>
 <summary><h2>iPadOS / iOS Developer @ <a href="https://www.fitogether.com">Fitogether</a> (2025.02 - )</h2></summary>
 
-## Love ⚽️ 
+## [Love ⚽️ Portfolio Link](https://chanhihi.github.io/)
 
 ### Building reliable and performant iPadOS apps in real-time data environments
 
@@ -13,26 +13,28 @@
 
 - GPS 기반 하드웨어로부터 수신되는 실시간 데이터(UDP, 2Hz) 처리 및 분석 파이프라인 설계
 - SwiftUI + MVVM 기반 데이터 시각화 UI 구현
-- 데이터 메타 구조체 및 내부 데이터 모델 재설계
+- 운동 데이터 메타 구조 및 데이터 모델 리팩토링을 통한 확장성 개선
 - SQLite 기반 대용량 데이터 저장/조회 성능 개선 (Query 최적화)
-- 데이터 흐름 중심 상태 관리 구조 개선(Combine 활용)
+- Combine 기반 데이터 흐름 및 상태 관리 구조 재설계
 - 다국어 및 사용자 정의 Threshold 정책 설계
 
 </br>
 
 ### Impact
 
-- 데이터 구조 개선으로 메모리 사용량 약 90% 절감
-- 데이터 처리 및 DB 접근 최적화로 CPU 사용량 약 40% 절감
-- 최소 지원 기기를 A16 → A14 iPad까지 확장
-- 신규 Metric 추가 시 수정 범위를 최소화하여 유지보수성 향상
+- 데이터 구조 개선으로 메모리 사용량 약 90% 감소
+- 데이터 처리 및 DB 접근 최적화로 CPU 사용량 약 40% 감소
+- 최소 지원 기기를 A16칩셋(iPhone15) → A14칩셋(iPhone12) 까지 확장
+- 신규 운동 데이터 추가 시 수정 범위를 최소화하여 유지보수성 향상(N → 1)
 - 실시간 데이터 환경에서 안정적인 데이터 처리 및 시각화 구조 구축
 
 </br>
 
 ### Experience Insight
 
-- 실시간 환경에서 데이터 정확성과 UI 반응성 사이의 균형 설계
+- 성능 문제를 개별 병목이 아닌 시스템 전체의 데이터 흐름 관점에서 분석하는 **사고방식**
+- 데이터와 로그를 기반으로 가설을 검증하고 근본 원인을 해결하는 **문제 해결 방식**
+- 실시간성과 사용자 경험 사이의 균형을 고려한 설계 경험
 - 구조적 개선이 성능과 운영 효율에 미치는 영향에 대한 이해
 - 기능 구현보다 장기적인 확장성과 유지보수성을 고려한 설계 지향
 - 복잡한 데이터 흐름을 단순화하는 상태 관리 경험
